@@ -1,1 +1,1 @@
-# chinagod
+TinDog Starting Files
